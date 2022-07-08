@@ -155,11 +155,13 @@ Now we can train our models. Compare different classification models, perform hy
 
 Models were assessed for accuracy using Confusion Matrices:
 
+<span style="background-color:white">
 ![alt text](/figures/cm_norm_lgr.png)
 ![alt text](/figures/cm_norm_gbc.png)
 ![alt text](/figures/cm_norm_abc.png)
+<span>
 
-Confusion matrices show that all three models perform extremely poorly when predicting a draw. The models predict more incorrect than correct and only predict a small amount of draws from over 100k fixtures, despite the fact that draws take up over 25% of match results across all leagues:
+Confusion matrices show that all three models perform extremely poorly when predicting a draw. The models predict more incorrect than correct and only predict a small amount of draws from over 100k fixtures, despite the fact that draws take up over 25% of match results across all leagues (loss=-1, draw=0, win=1):
 
 ![alt text](/figures/outcomes.png)
 
@@ -189,6 +191,14 @@ As the accuracy scores for the 3 models are very similar, to determine which mod
 
 
 Significance tests are used to compare models. Based on the parameters of 3 different types of statistical tests: Wilcoxon rank signed, McNemar's and combined 5x2CV F-test. We can conclude there is no significant difference in the performance of the models. 
+
+(lgr = Logistic Regression, gbc = Gradient Boost, abc = AdaBoost)
+
+|    Models    | Wilcoxon | McNemars | Combined 5X2cv f-test |
+|--------------|----------|----------|-----------------------|
+|  lgr vs gbc  |  0.1875  |  0.766   |         0.048         |
+|  lgr vs abc  |  0.625   |  0.250   |         0.109         |
+|  gbc vs abc  |  0.125   |  0.226   |         0.310         |
 
 
 ## Milestone 5: Inference
