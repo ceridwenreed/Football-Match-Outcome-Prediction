@@ -1,0 +1,139 @@
+,Home_Team,Away_Team,Result,Link,Season,Round,League,Elo_home,Elo_away,Home_Goals,Away_Goals,Outcome,Home_Win,Home_Attack,Away_Attack,Home_Team_Outcome_sum_10,Away_Team_Outcome_sum_10
+0,Arouca,CD Santa Clara,,https://www.besoccer.com/match/arouca/santa-clara/2022,2022,30,primeira_liga,68,52,,,,,0.6718487394957984,0.677115987460815,-3.0,4.0
+1,FamalicÃ£o,Gil Vicente,,https://www.besoccer.com/match/famalicao/gil-vicente/2022,2022,30,primeira_liga,53,56,,,,,0.7251461988304093,1.0734956361966008,0.0,-5.0
+2,VitÃ³ria GuimarÃ£es,PaÃ§os de Ferreira,,https://www.besoccer.com/match/vitoria-guimaraes/pacos-ferreira/2022,2022,30,primeira_liga,75,72,,,,,1.3436838390966832,0.5058217644424542,3.0,1.0
+3,Moreirense,Tondela,,https://www.besoccer.com/match/moreirense-fc/tondela/2022,2022,30,primeira_liga,68,59,,,,,0.7809246147438567,0.894878706199461,-4.0,4.0
+4,MarÃ­timo,Boavista,,https://www.besoccer.com/match/maritimo/boavista/2022,2022,30,primeira_liga,74,63,,,,,0.7778009162848812,0.8435374149659863,-1.0,2.0
+5,Belenenses SAD,Vizela,,https://www.besoccer.com/match/cf-os-belenenses-ii/vizela/2022,2022,30,primeira_liga,38,51,,,,,0.621301775147929,1.0146052031036057,-1.0,1.0
+6,Porto,Portimonense,,https://www.besoccer.com/match/fc-porto/portimonense/2022,2022,30,primeira_liga,89,58,,,,,1.913793103448276,0.846774193548387,8.0,3.0
+7,Sporting CP,Benfica,,https://www.besoccer.com/match/sporting-lisbon/benfica/2022,2022,30,primeira_liga,87,91,,,,,1.3511387163561075,2.080184331797235,8.0,-4.0
+8,Estoril,Sporting Braga,,https://www.besoccer.com/match/estoril/sporting-braga/2022,2022,30,primeira_liga,71,82,,,,,0.9312945119396732,1.273365071410674,-2.0,-2.0
+9,Chaves,SC Covilha,,https://www.besoccer.com/match/chaves/sporting-covilha/2022,2022,30,segunda_liga,65,53,,,,,1.4000416493127863,0.6287726358148894,6.0,6.0
+10,Varzim,Casa Pia,,https://www.besoccer.com/match/varzim/casa-pia/2022,2022,30,segunda_liga,54,41,,,,,0.5722543352601156,0.9979879275653922,-1.0,-3.0
+11,AcadÃ©mica,Penafiel,,https://www.besoccer.com/match/academica/penafiel/2022,2022,30,segunda_liga,59,56,,,,,0.9350649350649352,0.746938775510204,-5.0,2.0
+12,Farense,Mafra,,https://www.besoccer.com/match/farense/mafra/2022,2022,30,segunda_liga,42,44,,,,,1.0382059800664454,1.1321961620469083,3.0,1.0
+13,LeixÃµes,Porto II,,https://www.besoccer.com/match/leixoes/porto-ii/2022,2022,30,segunda_liga,53,53,,,,,1.141156462585034,1.0069930069930069,1.0,6.0
+14,Academico Viseu,Trofense,,https://www.besoccer.com/match/academico-viseu/trofense/2022,2022,30,segunda_liga,45,45,,,,,0.5180776014109347,0.6256332320162108,-6.0,3.0
+15,CF Estrela,Nacional,,https://www.besoccer.com/match/cf-estrela-de-amadora/nacional/2022,2022,30,segunda_liga,48,71,,,,,0.9902408637873756,1.1272635814889338,-2.0,3.0
+16,Feirense,Vilafranquense,,https://www.besoccer.com/match/feirense/vilafranquense/2022,2022,30,segunda_liga,63,39,,,,,1.1369747899159663,0.8807017543859649,2.0,0.0
+17,Rio Ave,Benfica II,,https://www.besoccer.com/match/rio-ave/benfica-ii/2022,2022,30,segunda_liga,74,53,,,,,1.1899874319229158,1.7437722419928825,5.0,-3.0
+18,Hannover 96,Fortuna DÃ¼sseldorf,,https://www.besoccer.com/match/hannover-96/fortuna-dusseldorf/2022,2022,30,2_liga,62,53,,,,,0.5141349415755748,0.7317784256559767,-1.0,2.0
+19,Sandhausen,FC St. Pauli,,https://www.besoccer.com/match/sv-sandhausen/st-pauli/2022,2022,30,2_liga,48,54,,,,,0.6027742749054225,1.0252941176470587,-3.0,1.0
+20,Dynamo Dresden,Holstein Kiel,,https://www.besoccer.com/match/sg-dynamo-dresden/holstein-kiel/2022,2022,30,2_liga,50,41,,,,,0.7954545454545453,0.9888327012220818,-3.0,3.0
+21,Hamburger SV,Karlsruher SC,,https://www.besoccer.com/match/hamburger-sv/karlsruher-sc/2022,2022,30,2_liga,74,55,,,,,1.3557333333333337,1.102251407129456,4.0,1.0
+22,Werder Bremen,NÃ¼rnberg,,https://www.besoccer.com/match/werder-bremen/fc-nurnberg/2022,2022,30,2_liga,75,61,,,,,1.124859392575928,1.0988372093023255,6.0,-2.0
+23,Darmstadt 98,Schalke 04,,https://www.besoccer.com/match/darmstadt-98/schalke-04/2022,2022,30,2_liga,60,84,,,,,1.4469009826152683,1.1979166666666663,3.0,-1.0
+24,Heidenheim,Erzgebirge Aue,,https://www.besoccer.com/match/heidenheim/fc-erzgebirge-aue/2022,2022,30,2_liga,51,51,,,,,1.1191709844559583,0.7827202737382377,7.0,5.0
+25,Hansa Rostock,Jahn Regensburg,,https://www.besoccer.com/match/hansa-rostock/ssv-jahn-regensburg/2022,2022,30,2_liga,43,35,,,,,0.6552631578947368,0.8857142857142857,-1.0,3.0
+26,Ingolstadt 04,Paderborn,,https://www.besoccer.com/match/fc-ingolstadt-04/paderborn/2022,2022,30,2_liga,63,42,,,,,0.5607047108387591,1.507607776838546,-3.0,-3.0
+27,Twente 1965,Sparta Rotterdam,,https://www.besoccer.com/match/fc-twente-1965/sparta-rotterdam/2022,2022,30,eredivisie,78,67,,,,,1.0022497187851518,0.4956495649564957,5.0,4.0
+28,NEC Nijmegen,Ajax,,https://www.besoccer.com/match/nec/ajax/2022,2022,30,eredivisie,68,88,,,,,0.5968387776606955,1.7011337868480727,-4.0,-7.0
+29,AZ Alkmaar,Heerenveen,,https://www.besoccer.com/match/az/heerenveen/2022,2022,30,eredivisie,80,76,,,,,1.4069940476190477,0.6038359788359788,6.0,2.0
+30,RKC Waalwijk,PEC Zwolle,,https://www.besoccer.com/match/rkc-waalwijk/fc-zwolle/2022,2022,30,eredivisie,54,71,,,,,0.5454545454545454,0.6093823668081094,-2.0,3.0
+31,Cambuur,PSV,,https://www.besoccer.com/match/sc-cambuur-leeuwarden/psv/2022,2022,30,eredivisie,59,89,,,,,1.1935365405802425,1.6920485175202158,-5.0,-6.0
+32,Willem II,Vitesse,,https://www.besoccer.com/match/willem-ii/vitesse/2022,2022,30,eredivisie,62,77,,,,,0.5479348237968927,0.9834303627407076,-5.0,-1.0
+33,Groningen,Heracles,,https://www.besoccer.com/match/fc-groningen/heracles/2022,2022,30,eredivisie,75,70,,,,,0.6859410430839002,0.5484298982750995,1.0,7.0
+34,Feyenoord,Utrecht,,https://www.besoccer.com/match/feyenoord/fc-utrecht/2022,2022,30,eredivisie,84,77,,,,,1.5437430786267994,0.9296875,4.0,3.0
+35,Fortuna Sittard,Go Ahead Eagles,,https://www.besoccer.com/match/fortuna-sittard/go-ahead-eagles/2022,2022,30,eredivisie,45,60,,,,,0.6901212482607831,0.6045838896306186,-3.0,0.0
+36,B. Dortmund,Wolfsburg,,https://www.besoccer.com/match/borussia-dortmund/wolfsburg/2022,2022,30,bundesliga,93,84,,,,,1.6753841124550506,0.812473025463962,4.0,4.0
+37,Mainz 05,Stuttgart,,https://www.besoccer.com/match/mainz-amat/stuttgart/2022,2022,30,bundesliga,77,65,,,,,1.1247058823529412,0.5965608465608465,6.0,5.0
+38,FC Augsburg,Hertha BSC,,https://www.besoccer.com/match/fc-augsburg/hertha-bsc/2022,2022,30,bundesliga,74,75,,,,,0.8964285714285715,0.5428571428571428,3.0,6.0
+39,SC Freiburg,VfL Bochum,,https://www.besoccer.com/match/sc-freiburg/bochum/2022,2022,30,bundesliga,68,58,,,,,1.0127314814814814,0.5958934032328528,2.0,2.0
+40,B. MÃ¶nchengladbach,KÃ¶ln,,https://www.besoccer.com/match/borussia-monchengla/1-fc-koln/2022,2022,30,bundesliga,83,77,,,,,0.979591836734694,0.928795342588446,0.0,0.0
+41,Arminia Bielefeld,Bayern MÃ¼nchen,,https://www.besoccer.com/match/arminia-bielefeld/bayern-munchen/2022,2022,30,bundesliga,55,96,,,,,0.5275486638073243,2.3297213622291024,-1.0,-5.0
+42,Union Berlin,Eintracht Frankfurt,,https://www.besoccer.com/match/1-fc-union-berlin/eintracht-frankfurt/2022,2022,30,bundesliga,54,77,,,,,0.7683128936029169,1.2529385171790235,4.0,-2.0
+43,Hoffenheim,Greuther FÃ¼rth,,https://www.besoccer.com/match/tsg-1899-hoffenheim/greuther-furth/2022,2022,30,bundesliga,77,58,,,,,1.17824377457405,0.5982961992136304,4.0,8.0
+44,B. Leverkusen,RB Leipzig,,https://www.besoccer.com/match/bayer-leverkusen/rb-leipzig/2022,2022,30,bundesliga,87,66,,,,,1.4195402298850577,1.4026758739749676,4.0,-2.0
+45,Liverpool,Watford,,https://www.besoccer.com/match/liverpool/watford-fc/2022,2022,31,premier_league,90,70,,,,,1.795023272466881,0.7719780219780219,9.0,3.0
+46,Brighton & Hove Albion,Norwich City,,https://www.besoccer.com/match/brighton-amp-hov/norwich-city-fc/2022,2022,31,premier_league,60,64,,,,,0.4471544715447154,0.441988950276243,-4.0,5.0
+47,Burnley,Man. City,,https://www.besoccer.com/match/burnley-fc/manchester-city-fc/2022,2022,31,premier_league,70,94,,,,,0.6276672694394213,1.452420091324201,0.0,-8.0
+48,Chelsea,Brentford,,https://www.besoccer.com/match/chelsea-fc/brentford/2022,2022,31,premier_league,94,53,,,,,1.4393491124260354,0.8783673469387755,5.0,6.0
+49,Leeds United,Southampton,,https://www.besoccer.com/match/leeds-united-afc/southampton-fc/2022,2022,31,premier_league,58,82,,,,,0.7591706539074959,0.8888888888888887,-2.0,2.0
+50,Wolves,Aston Villa,,https://www.besoccer.com/match/wolverhampton/aston-villa-fc/2022,2022,31,premier_league,59,62,,,,,0.6783919597989949,0.8756164383561643,2.0,0.0
+51,Man. Utd,Leicester,,https://www.besoccer.com/match/manchester-united-fc/leicester-city-fc/2022,2022,31,premier_league,92,79,,,,,1.0679518072289158,1.0735511064278187,4.0,3.0
+52,West Ham,Everton,,https://www.besoccer.com/match/west-ham-united/everton-fc/2022,2022,31,premier_league,79,83,,,,,1.2057007125890735,0.6597110754414125,4.0,9.0
+53,Tottenham Hotspur,Newcastle,,https://www.besoccer.com/match/tottenham-hotspur-fc/newcastle-united-fc/2022,2022,31,premier_league,89,70,,,,,1.1823639774859287,0.6177777777777779,3.0,2.0
+54,Crystal Palace,Arsenal,,https://www.besoccer.com/match/crystal-palace-fc/arsenal/2022,2022,31,premier_league,73,92,,,,,0.9847123719464144,1.2131455399061033,-1.0,-3.0
+55,Stade Rennais,Monaco,,https://www.besoccer.com/match/stade-rennes/monaco/2022,2022,32,ligue_1,77,87,,,,,1.7253456221198158,0.9156342182890854,6.0,1.0
+56,Saint-Ãtienne,Stade Brestois,,https://www.besoccer.com/match/saint-etienne/stade-brestois-29/2022,2022,32,ligue_1,82,58,,,,,0.8361486486486486,0.9115942028985508,-2.0,-2.0
+57,Lille,Lens,,https://www.besoccer.com/match/lillestrom/lens/2022,2022,32,ligue_1,81,59,,,,,0.8473363774733638,1.0952941176470588,2.0,4.0
+58,Nice,Lorient,,https://www.besoccer.com/match/nice/lorient/2022,2022,32,ligue_1,80,73,,,,,0.8444444444444444,0.7457386363636364,1.0,5.0
+59,Metz,Clermont,,https://www.besoccer.com/match/metz/clermont-foot/2022,2022,32,ligue_1,63,55,,,,,0.7102974828375286,0.7927710843373494,-4.0,4.0
+60,Montpellier,Stade de Reims,,https://www.besoccer.com/match/montpellier-hsc/stade-reims/2022,2022,32,ligue_1,76,61,,,,,1.0463800904977376,0.747134670487106,-1.0,1.0
+61,Nantes,Angers SCO,,https://www.besoccer.com/match/nantes/angers-sco/2022,2022,32,ligue_1,72,66,,,,,1.0679245283018868,1.022222222222222,4.0,4.0
+62,Troyes,Strasbourg,,https://www.besoccer.com/match/troyes/strasbourg/2022,2022,32,ligue_1,59,50,,,,,0.6250187265917604,1.2565174129353234,0.0,-3.0
+63,Olympique Lyonnais,Girondins Bordeaux,,https://www.besoccer.com/match/olympique-lyonnais/bordeaux/2022,2022,32,ligue_1,85,80,,,,,1.16796875,1.0341176470588236,2.0,4.0
+64,PSG,Olympique Marseille,,https://www.besoccer.com/match/paris-saint-germain-fc/olympique-marsella/2022,2022,32,ligue_1,93,82,,,,,1.7218543046357615,1.4183381088825215,9.0,-7.0
+65,R. Sociedad,Real Betis,,https://www.besoccer.com/match/real-sociedad/betis/2022,2022,32,primera_division,81,75,,,,,0.5498850574712645,1.5308441558441557,3.0,-2.0
+66,Elche,Mallorca,,https://www.besoccer.com/match/elche/mallorca/2022,2022,32,primera_division,61,58,,,,,0.7822468793342578,0.8055555555555557,0.0,7.0
+67,AlavÃ©s,Rayo Vallecano,,https://www.besoccer.com/match/alaves/rayo-vallecano/2022,2022,32,primera_division,69,64,,,,,0.5456310679611651,0.6627854903716973,0.0,8.0
+68,Valencia,Osasuna,,https://www.besoccer.com/match/valencia-cf/osasuna/2022,2022,32,primera_division,83,68,,,,,1.0060046189376444,0.9926393270241852,1.0,5.0
+69,Getafe,Villarreal,,https://www.besoccer.com/match/getafe/villarreal/2022,2022,32,primera_division,64,85,,,,,0.9250398724082934,0.8083333333333333,7.0,3.0
+70,Granada,Levante,,https://www.besoccer.com/match/granada/levante/2022,2022,32,primera_division,69,66,,,,,0.8658968437259429,0.860369163952226,-2.0,7.0
+71,AtlÃ©tico,Espanyol,,https://www.besoccer.com/match/atletico-madrid/espanyol/2022,2022,32,primera_division,97,78,,,,,1.3328627450980393,0.8123301985370952,6.0,6.0
+72,Athletic,Celta,,https://www.besoccer.com/match/athletic-bilbao/celta/2022,2022,32,primera_division,86,82,,,,,1.1475409836065575,0.8535353535353536,2.0,0.0
+73,Sevilla,Real Madrid,,https://www.besoccer.com/match/sevilla/real-madrid/2022,2022,32,primera_division,90,99,,,,,1.3812949640287768,1.797876857749469,7.0,-7.0
+74,Barcelona,CÃ¡diz,,https://www.besoccer.com/match/barcelona/cadiz/2022,2022,32,primera_division,98,53,,,,,1.5694535878867677,0.8068965517241379,5.0,3.0
+75,Spezia,Inter,,https://www.besoccer.com/match/asd-spezia/internazionale/2022,2022,33,serie_a,60,84,,,,,0.703192279138827,1.343349753694581,0.0,-5.0
+76,Milan,Genoa,,https://www.besoccer.com/match/milan/genoa/2022,2022,33,serie_a,85,74,,,,,0.9552015250544664,0.6083743842364532,1.0,4.0
+77,Cagliari,Sassuolo,,https://www.besoccer.com/match/cagliari/us-sassuolo-calcio/2022,2022,33,serie_a,73,74,,,,,0.6998491704374058,1.5352443609022557,-4.0,-2.0
+78,Sampdoria,Salernitana,,https://www.besoccer.com/match/sampdoria/salernitana-calcio-1919/2022,2022,33,serie_a,74,50,,,,,0.9478711790393012,0.5271680460597338,-3.0,4.0
+79,Udinese,Empoli,,https://www.besoccer.com/match/udinese/empoli-fc/2022,2022,33,serie_a,76,71,,,,,1.051528384279476,0.8409375,3.0,2.0
+80,Fiorentina,Venezia,,https://www.besoccer.com/match/fiorentina/venezia/2022,2022,33,serie_a,86,38,,,,,1.4553097345132744,0.4958123953098827,6.0,4.0
+81,Juventus,Bologna,,https://www.besoccer.com/match/juventus-fc/bologna/2022,2022,33,serie_a,95,72,,,,,0.8269650655021834,0.7011494252873562,4.0,2.0
+82,Lazio,Torino,,https://www.besoccer.com/match/lazio/torino-fc/2022,2022,33,serie_a,85,77,,,,,1.5365853658536586,0.3973333333333333,3.0,3.0
+83,Napoli,Roma,,https://www.besoccer.com/match/napoli/roma/2022,2022,33,serie_a,90,89,,,,,1.08843537414966,1.3919341563786007,0.0,-2.0
+84,Atalanta,Hellas Verona,,https://www.besoccer.com/match/atalanta/hellas-verona-fc/2022,2022,33,serie_a,77,65,,,,,1.1037527593818983,1.1768261964735518,0.0,0.0
+85,Toulouse,Quevilly-Rouen,,https://www.besoccer.com/match/toulouse-fc/quevilly/2022,2022,33,ligue_2,75,42,,,,,2.247727272727273,0.7814685314685315,7.0,6.0
+86,Pau FC,Auxerre,,https://www.besoccer.com/match/pau/auxerre/2022,2022,33,ligue_2,38,61,,,,,1.0760869565217392,1.3715397923875432,4.0,-5.0
+87,Bastia,Guingamp,,https://www.besoccer.com/match/bastia/guingamp/2022,2022,33,ligue_2,70,72,,,,,0.7823834196891191,0.8486729452054794,3.0,3.0
+88,Caen,Amiens SC,,https://www.besoccer.com/match/caen/amiens-sc/2022,2022,33,ligue_2,70,53,,,,,1.269007731958763,0.9677852348993288,3.0,3.0
+89,Dijon FCO,Ajaccio,,https://www.besoccer.com/match/dijon-fco/ajaccio/2022,2022,33,ligue_2,65,56,,,,,0.9768637532133676,0.9041666666666668,3.0,-3.0
+90,Dunkerque,Grenoble,,https://www.besoccer.com/match/dunkerque/grenoble-foot-38/2022,2022,33,ligue_2,44,34,,,,,0.6408756684491979,0.4586206896551724,1.0,3.0
+91,Nancy,Niort,,https://www.besoccer.com/match/nancy/chamois-niortais/2022,2022,33,ligue_2,70,50,,,,,0.685374149659864,0.910472972972973,0.0,2.0
+92,NÃ®mes,Sochaux,,https://www.besoccer.com/match/nimes-olympique/sochaux/2022,2022,33,ligue_2,52,61,,,,,0.88206940874036,1.3658898305084746,-1.0,0.0
+93,Rodez,Paris FC,,https://www.besoccer.com/match/rodez/paris-sg/2022,2022,33,ligue_2,31,44,,,,,0.6285714285714287,1.306423611111111,-1.0,-1.0
+94,Valenciennes,Le Havre,,https://www.besoccer.com/match/valenciennes-afc/havre-ac/2022,2022,33,ligue_2,58,56,,,,,0.8867984693877551,1.1139931740614333,-1.0,1.0
+95,US Alessandria,Pordenone,,https://www.besoccer.com/match/us-alessandria-1912/pordenone/2022,2022,34,serie_b,49,37,,,,,0.6458333333333334,0.5130131964809385,-2.0,7.0
+96,Como,Cittadella,,https://www.besoccer.com/match/como/as-cittadella/2022,2022,34,serie_b,42,51,,,,,0.8243087557603687,0.7968749999999999,0.0,-2.0
+97,Lecce,SPAL,,https://www.besoccer.com/match/lecce/spal-1907/2022,2022,34,serie_b,50,53,,,,,1.5274174528301887,0.7386363636363635,5.0,0.0
+98,Frosinone,Cremonese,,https://www.besoccer.com/match/frosinone-calcio/us-cremonese/2022,2022,34,serie_b,55,47,,,,,1.2391304347826086,1.196349557522124,5.0,-2.0
+99,Benevento,Vicenza,,https://www.besoccer.com/match/benevento-calcio/vicenza-calcio/2022,2022,34,serie_b,52,56,,,,,1.607558139534884,0.7401221264367815,4.0,6.0
+100,Ascoli,Reggina,,https://www.besoccer.com/match/ascoli/reggina/2022,2022,34,serie_b,53,36,,,,,0.8310570071258907,0.6824127906976744,2.0,4.0
+101,Crotone,Ternana Calcio,,https://www.besoccer.com/match/fc-crotone/ternana-calcio/2022,2022,34,serie_b,65,53,,,,,0.8708333333333333,1.3075801749271136,-1.0,0.0
+102,Nuova Cosenza,AC Monza,,https://www.besoccer.com/match/nuova-cosenza/ac-monza-brianza-1912/2022,2022,34,serie_b,44,32,,,,,0.7905882352941176,1.1422413793103448,-6.0,-2.0
+103,Perugia,Pisa SC,,https://www.besoccer.com/match/perugia/pisa-calcio/2022,2022,34,serie_b,55,50,,,,,0.6906702898550725,1.0783045977011494,-1.0,-2.0
+104,Brescia,Parma,,https://www.besoccer.com/match/brescia/parma-fc/2022,2022,34,serie_b,58,39,,,,,1.146556712962963,1.1914625360230546,1.0,-1.0
+105,De Graafschap,TOP Oss,,https://www.besoccer.com/match/graafschap/fc-oss/2022,2022,35,eerste_divisie,54,45,,,,,0.5794623776852997,0.7490367325969689,-3.0,2.0
+106,Dordrecht,Emmen,,https://www.besoccer.com/match/fc-dordrecht/emmen/2022,2022,35,eerste_divisie,52,52,,,,,0.9082217973231358,0.9158371040723982,1.0,-4.0
+107,FC Eindhoven,Jong PSV,,https://www.besoccer.com/match/fc-eindhoven/jong-psv/2022,2022,35,eerste_divisie,55,53,,,,,1.303500986193294,0.944927536231884,5.0,3.0
+108,MVV Maastricht,Excelsior,,https://www.besoccer.com/match/mvv/excelsior/2022,2022,35,eerste_divisie,54,63,,,,,0.6926470588235294,1.4511531484840632,-8.0,-2.0
+109,Roda JC,Helmond Sport,,https://www.besoccer.com/match/roda-jc/helmond-sport/2022,2022,35,eerste_divisie,65,52,,,,,1.1976606805293006,0.6140695067264573,5.0,4.0
+110,VVV Venlo,SC Telstar,,https://www.besoccer.com/match/vvv/stormvogels-telstar/2022,2022,35,eerste_divisie,60,46,,,,,0.8033296337402887,0.74375,-4.0,5.0
+111,Jong AZ,ADO Den Haag,,https://www.besoccer.com/match/az-alkmaar-sub23/ado-den-haag/2022,2022,35,eerste_divisie,40,67,,,,,0.6913718048889386,1.4886877828054297,-2.0,-3.0
+112,FC Volendam,Jong Ajax,,https://www.besoccer.com/match/fc-volendam/jong-ajax/2022,2022,35,eerste_divisie,58,54,,,,,1.5071564885496185,1.2373348017621146,5.0,-1.0
+113,Almere City,NAC Breda,,https://www.besoccer.com/match/almere-city/nac-breda/2022,2022,35,eerste_divisie,48,59,,,,,0.901510029299076,0.9506348795024616,0.0,1.0
+114,Jong Utrecht,Den Bosch,,https://www.besoccer.com/match/jong-utrecht/fc-den-bosch/2022,2022,35,eerste_divisie,50,53,,,,,0.506177037288904,0.7084233261339092,-6.0,6.0
+115,Eibar,Las Palmas,,https://www.besoccer.com/match/eibar/ud-palmas/2022,2022,36,segunda_division,73,61,,,,,1.2298221614227085,0.978891820580475,7.0,0.0
+116,SD Amorebieta,MirandÃ©s,,https://www.besoccer.com/match/amorebieta/mirandes/2022,2022,36,segunda_division,39,55,,,,,1.0119485294117647,0.8637770897832817,-1.0,5.0
+117,LeganÃ©s,MÃ¡laga,,https://www.besoccer.com/match/leganes/malaga/2022,2022,36,segunda_division,62,60,,,,,0.8884615384615385,0.6982097186700768,5.0,4.0
+118,Real Valladolid,AlmerÃ­a,,https://www.besoccer.com/match/valladolid/almeria/2022,2022,36,segunda_division,71,60,,,,,1.3535190107477175,1.2669445731048323,7.0,-1.0
+119,Real Sporting,Real Oviedo,,https://www.besoccer.com/match/sporting-gijon/real-oviedo/2022,2022,36,segunda_division,68,56,,,,,0.940216086434574,0.8636292713371821,-3.0,1.0
+120,FC Cartagena,AlcorcÃ³n,,https://www.besoccer.com/match/cartagena/ad-alcorcon/2022,2022,36,segunda_division,49,58,,,,,1.3091096360723278,0.817652329749104,1.0,5.0
+121,Ponferradina,Lugo,,https://www.besoccer.com/match/ponferradina-sd/lugo/2022,2022,36,segunda_division,49,53,,,,,1.1441462021701885,1.1992850759606797,1.0,3.0
+122,Burgos,UD Ibiza,,https://www.besoccer.com/match/burgos-cf/ibiza-eivissa/2022,2022,36,segunda_division,47,46,,,,,1.0162508583199816,1.0967285309845864,5.0,1.0
+123,Huesca,Real Zaragoza,,https://www.besoccer.com/match/huesca/real-zaragoza/2022,2022,36,segunda_division,56,60,,,,,0.7214700193423598,0.9813333333333332,2.0,2.0
+124,Tenerife,Fuenlabrada,,https://www.besoccer.com/match/tenerife/fuenlabrada/2022,2022,36,segunda_division,55,39,,,,,0.9705309024194474,0.5744125326370757,1.0,8.0
+125,Girona,R. Sociedad B,,https://www.besoccer.com/match/girona-fc/real-sociedad-b/2022,2022,36,segunda_division,61,42,,,,,1.286503203004197,1.0440766835982302,7.0,2.0
+126,Luton Town,Nottingham Forest,,https://www.besoccer.com/match/luton-town-fc/nottingham-forest-fc/2022,2022,42,championship,36,57,,,,,1.2243119266055047,1.400602409638554,5.0,-2.0
+127,AFC Bournemouth,Middlesbrough,,https://www.besoccer.com/match/afc-bournemouth/middlesbrough-fc/2022,2022,42,championship,66,71,,,,,1.4382716049382718,1.0580896686159842,3.0,1.0
+128,Birmingham City,Coventry City,,https://www.besoccer.com/match/birmingham-city-fc/coventry-city/2022,2022,42,championship,57,42,,,,,0.7964939024390245,0.9914828565188905,-1.0,1.0
+129,Hull City,Cardiff City,,https://www.besoccer.com/match/hull-city/cardiff-city-fc/2022,2022,42,championship,70,58,,,,,0.5763975155279503,1.240174672489083,-5.0,0.0
+130,Peterborough United,Blackburn Rovers,,https://www.besoccer.com/match/peterborough-u/blackburn-rovers-fc/2022,2022,42,championship,47,60,,,,,0.7217125382262997,0.7400394477317555,-5.0,3.0
+131,Preston North End,Millwall,,https://www.besoccer.com/match/preston-north-end/millwall-fc/2022,2022,42,championship,58,49,,,,,0.945979078130108,0.8328094302554028,2.0,2.0
+132,Sheffield United,Reading,,https://www.besoccer.com/match/sheffield-united/reading-fc/2022,2022,42,championship,50,60,,,,,1.2048990400529629,0.8855289421157684,8.0,5.0
+133,Stoke City,Bristol City,,https://www.besoccer.com/match/stoke-city/bristol-city-fc/2022,2022,42,championship,77,52,,,,,1.0131297709923663,1.165,-2.0,6.0
+134,Swansea City,Barnsley,,https://www.besoccer.com/match/swansea-city-afc/barnsley-fc/2022,2022,42,championship,75,51,,,,,0.9175320179993076,0.5962000436776589,0.0,7.0
+135,West Bromwich Albion,Blackpool,,https://www.besoccer.com/match/west-bromwich/blackpool-fc/2022,2022,42,championship,75,39,,,,,0.9843803056027164,1.0434978589136803,2.0,4.0
+136,Huddersfield Town,Queens Park Rangers,,https://www.besoccer.com/match/huddersfield-town-fc/queens-park-rangers-fc/2022,2022,42,championship,55,56,,,,,1.017901336413133,1.2877562326869805,2.0,0.0
+137,Derby County,Fulham,,https://www.besoccer.com/match/derby-county-fc/fulham/2022,2022,42,championship,61,62,,,,,0.973159509202454,2.204271844660194,6.0,-6.0
