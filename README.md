@@ -165,7 +165,7 @@ Confusion matrices show that all three models perform extremely poorly when pred
 
 Pairwise relationship plots between the features show that there is a stronger distinction between win or loss outcomes (and comparatively it is more difficult to make a distinction for draws), and there is a much higher frequency of wins (approx 50%) relative to draws. Therefore, this may explain why the models are more likely to predict win as an outcome.
 
-#### [PairGrid png]
+![alt text](/figures/pairgrid1.png)
 
 Since the models are doing a very poor job of predicting draws (near negligible) and not achieving over 50% accuracy, we will instead use a Binary Classification model and predict on home wins only. After optimisation, the top 3 performing models achieve over 60% accuracy. 
 
