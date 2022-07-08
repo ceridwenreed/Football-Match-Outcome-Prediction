@@ -24,11 +24,11 @@ First, visualise the data to determine the significance towards predicting match
 
 #### Total goals per Season per League:
 
-![alt text](/home/ceri/Football-Match-Outcome-Prediction/figures/goalleague.png)
+![alt text](/figures/goalleague.png)
 
 #### Average Home/Away Goals per Season in the Premier League:
 
-![alt text](/home/ceri/Football-Match-Outcome-Prediction/figures/hagoals.png)
+![alt text](/figures/hagoals.png)
 
 #### League data:
 
@@ -98,7 +98,7 @@ We will use Logistic Regression and Binary Logistic Regression to perform featur
 
 Feature heatmaps are used to find correlated features and select between those that are equally useful in affecting the outcome. 
 
-![alt text](/home/ceri/Football-Match-Outcome-Prediction/figures/heatmap2.png)
+![alt text](/figures/heatmap2.png)
 
 Lasso Regression/L1 Regularization for Binary Logistic Regression is used to to assess feature importance to model.
 
@@ -155,13 +155,13 @@ Now we can train our models. Compare different classification models, perform hy
 
 Models were assessed for accuracy using Confusion Matrices:
 
-![alt text](/home/ceri/Football-Match-Outcome-Prediction/figures/cm_norm_lgr.png)
-![alt text](/home/ceri/Football-Match-Outcome-Prediction/figures/cm_norm_gbc.png)
-![alt text](/home/ceri/Football-Match-Outcome-Prediction/figures/cm_norm_abc.png)
+![alt text](/figures/cm_norm_lgr.png)
+![alt text](/figures/cm_norm_gbc.png)
+![alt text](/figures/cm_norm_abc.png)
 
 Confusion matrices show that all three models perform extremely poorly when predicting a draw. The models predict more incorrect than correct and only predict a small amount of draws from over 100k fixtures, despite the fact that draws take up over 25% of match results across all leagues:
 
-![alt text](/home/ceri/Football-Match-Outcome-Prediction/figures/outcomes.png)
+![alt text](/figures/outcomes.png)
 
 Pairwise relationship plots between the features show that there is a stronger distinction between win or loss outcomes (and comparatively it is more difficult to make a distinction for draws), and there is a much higher frequency of wins (approx 50%) relative to draws. Therefore, this may explain why the models are more likely to predict win as an outcome.
 
@@ -177,15 +177,15 @@ Since the models are doing a very poor job of predicting draws (near negligible)
 
 Confusion matrices can allow you to assess the sensitivity and specificity of the models. Interestingly, the confusion matrices (below) for these 3 models show that the 'sensitivity' of predicted wins from true wins is significantly less accurate. However, this is due to the multiclass models being heavily skewed towards predicting wins. In the case of multiclass verses binary classification models, overall accuracy may not be enough to distinguish which is the better model, and instead depends on whether there are specific classes that need to be labeled correctly more than others.  
 
-![alt text](/home/ceri/Football-Match-Outcome-Prediction/figures/binary_cm_norm_lgr.png)
-![alt text](/home/ceri/Football-Match-Outcome-Prediction/figures/binary_cm_norm_gbc.png)
-![alt text](/home/ceri/Football-Match-Outcome-Prediction/figures/binary_cm_norm_abc.png)
+![alt text](/figures/binary_cm_norm_lgr.png)
+![alt text](/figures/binary_cm_norm_gbc.png)
+![alt text](/figures/binary_cm_norm_abc.png)
 
 As the accuracy scores for the 3 models are very similar, to determine which model is the best option, we can assess the reliablility and use significance tests to find any differences in the performance. Prediction probability can be used to show the reliablity of models, where a good model should output probabilities that are consistent with the outcome e.g. 60% probability should be correct 60% of the time. Below shows histograms of correct and incorrect predictions given a predictions probability. 
 
-![alt text](/home/ceri/Football-Match-Outcome-Prediction/figures/pred_prob_lgr.png)
-![alt text](/home/ceri/Football-Match-Outcome-Prediction/figures/pred_prob_gbc.png)
-![alt text](/home/ceri/Football-Match-Outcome-Prediction/figures/pred_prob_abc.png)
+![alt text](/figures/pred_prob_lgr.png)
+![alt text](/figures/pred_prob_gbc.png)
+![alt text](/figures/pred_prob_abc.png)
 
 
 Significance tests are used to compare models. Based on the parameters of 3 different types of statistical tests: Wilcoxon rank signed, McNemar's and combined 5x2CV F-test. We can conclude there is no significant difference in the performance of the models. 
