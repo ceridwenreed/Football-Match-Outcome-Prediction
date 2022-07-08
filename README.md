@@ -155,7 +155,7 @@ Now we can train our models. Compare different classification models, perform hy
 
 Models were assessed for accuracy using Confusion Matrices:
 
-![alt text](/figures/cm_norm_lgr.png#gh-light-mode-only)
+![alt text](/figures/cm_norm_lgr.png#theme=light)
 ![alt text](/figures/cm_norm_gbc.png)
 ![alt text](/figures/cm_norm_abc.png)
 
