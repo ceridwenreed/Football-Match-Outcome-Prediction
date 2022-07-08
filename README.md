@@ -155,11 +155,9 @@ Now we can train our models. Compare different classification models, perform hy
 
 Models were assessed for accuracy using Confusion Matrices:
 
-<span style="color:white">
-![alt text](/figures/cm_norm_lgr.png)
+![alt text](/figures/cm_norm_lgr.png#gh-light-mode-only)
 ![alt text](/figures/cm_norm_gbc.png)
 ![alt text](/figures/cm_norm_abc.png)
-<span>
 
 Confusion matrices show that all three models perform extremely poorly when predicting a draw. The models predict more incorrect than correct and only predict a small amount of draws from over 100k fixtures, despite the fact that draws take up over 25% of match results across all leagues (loss=-1, draw=0, win=1):
 
