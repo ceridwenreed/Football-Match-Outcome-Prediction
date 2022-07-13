@@ -18,6 +18,8 @@ The success is judged using the following two objectives, one quantitative and o
 
 ## Milestone 1: EDA and Cleaning
 
+Data was collected from 14 different leagues in Europe and UK for game seasons between 1990-2021, giving over 100k fictures that were complied into a single json file containing a range of stats (e.g. ELO, Yellow cards, Stadium capcity etc.) 
+
 Exploratory data analysis is a critical precursor to applying a model. It is important to identify the features in the dataset that will be necessary for predicting the outcome of a football match. 
 
 First, visualise the data to determine the significance towards predicting match results and outcome. 
@@ -163,7 +165,7 @@ Confusion matrices show that all three models perform extremely poorly when pred
 
 ![alt text](/figures/outcomes.png)
 
-Pairwise relationship plots between the features show that there is a stronger distinction between win or loss outcomes (and comparatively it is more difficult to make a distinction for draws), and there is a much higher frequency of wins (approx 50%) relative to draws. Therefore, this may explain why the models are more likely to predict win as an outcome.
+Pairwise relationship plots between the features show that there is a stronger distinction between win or loss outcomes (and comparatively it is more difficult to make a distinction for draws), and there is a much higher frequency of wins (approx 50% of all fictures) relative to draws. Therefore, this may explain why the models are more likely to predict win as an outcome.
 
 ![alt text](/figures/pairgrid1.png)
 
@@ -188,7 +190,7 @@ As the accuracy scores for the 3 models are very similar, to determine which mod
 ![alt text](/figures/pred_prob_abc.png)
 
 
-Significance tests are used to compare models. Based on the parameters of 3 different types of statistical tests: Wilcoxon rank signed, McNemar's and combined 5x2CV F-test. We can conclude there is no significant difference in the performance of the models. 
+Significance tests are used to compare models. Below shows a table of the **p-values** derived from 3 different types of statistical tests: Wilcoxon rank signed, McNemar's and combined 5x2CV F-test. Based on the parameters of the tests, we can conclude there is no significant difference in the performance of the models. 
 
 (lgr = Logistic Regression, gbc = Gradient Boost, abc = AdaBoost)
 
@@ -206,7 +208,10 @@ Use the `pipeline.py` to clean and create features for a new dataset from Result
 Use the chosen model to predict the outcome of the matches from the To_Predict dataset.
 
 
+
 ## Conclusion
+
+- The accuracy of the football match outcome predictor was found to be better than random choice.
 
 - To achieve over 50% accuracy, we performed Binary Classification using `Home_Win` as the prediction label.
 
